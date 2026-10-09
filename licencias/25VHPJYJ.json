@@ -3,7 +3,7 @@
   "machine": "C3A0TFQ63M",
   "issued": "2026-10-09",
   "expires": null,
-  "status": "active",
-  "updated": "2026-10-09T23:30:00.325Z",
-  "sig": "x9XomjAuz1q4ilYR3j65No3Da2WPfDpF4vHrJLFuJVtpxa00IfZiZ5gRXKrzxrq7zDgl3zJAiCHYVFLR8o6LAg=="
+  "status": "suspended",
+  "updated": "2026-10-09T23:30:49.443Z",
+  "sig": "ghT8VnSfV78/e0bgwyiB/44x2m8ANCvUdxDlkzC5oyF5buNB0+XphcOCMVeEpvfs237Tn6emWpHaFermj1wQDA=="
 }
