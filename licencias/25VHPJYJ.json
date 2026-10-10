@@ -2,8 +2,8 @@
   "id": "25VHPJYJ",
   "machine": "C3A0TFQ63M",
   "issued": "2026-10-09",
-  "expires": null,
+  "expires": "2026-11-09",
   "status": "active",
-  "updated": "2026-10-10T00:27:30.111Z",
-  "sig": "XwbUKiWFLdQhAZJNVfcquXeHm6Z3ls8SNA0HYi5WRL2pdR4EmwqcRj+QY/oCF0XaxZi17P7aqO5ok/kv9tYMAw=="
+  "updated": "2026-10-10T00:27:58.745Z",
+  "sig": "uzsU2na5MgSOCK6wH1Z8QR584U9qMk0/KgN25pnJ5nVcYrYSvURdUi47TcMlk736FHBLzgsakJAP1bieNtBqDA=="
 }
